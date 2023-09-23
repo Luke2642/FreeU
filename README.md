@@ -1,3 +1,6 @@
+Luke's quick hack for testing this in automatic1111
+
+
 <div align="center">
 
 <h1>FreeU: Free Lunch in Diffusion U-Net</h1>
