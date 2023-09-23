@@ -1,5 +1,11 @@
 Luke's quick hack for testing this in automatic1111
 
+drop openaimodel.py into:
+
+stable-diffusion-webui\repositories\stable-diffusion-stability-ai\ldm\modules\diffusionmodules
+
+it's hard coded with the suggested values from FreeU. It'll only work on images that are powers of 2, 512x512, 512x1024, 1024x1024 etc.
+
 
 <div align="center">
 
