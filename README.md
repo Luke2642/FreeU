@@ -4,8 +4,13 @@ drop openaimodel.py into:
 
 stable-diffusion-webui\repositories\stable-diffusion-stability-ai\ldm\modules\diffusionmodules
 
-it's hard coded with the suggested values from FreeU. It'll only work on images that are powers of 2, 512x512, 512x1024, 1024x1024 etc.
+it's hard coded with the suggested values from FreeU. 
 
+It'll only work on images that are powers of 2, 512x512, 512x1024, 1024x1024 etc.
+
+It seems to work nicely on sd-v1-5-pruned. It doesn't suddenly become realistic vision but it is noticeably more coherent!
+
+<hr><hr>
 
 <div align="center">
 
